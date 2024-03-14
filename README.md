@@ -8,9 +8,9 @@ Clone or download the repository containing the Aim Trainer code to your local m
 
 Dependencies:
 The Aim Trainer has minimal dependencies. However, you need to install the pygame library. Install it via pip:
-`pip install pygame`
+  `pip install pygame`
 
 Running the Aim Trainer:
 Navigate to the directory containing the Aim Trainer code.
 Execute the Aim Trainer script using Python:
-`python aim_trainer.py`
+  `python aim_trainer.py`
